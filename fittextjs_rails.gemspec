@@ -9,6 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Guy Israeli"]
   spec.description   = "Fittext.js as a gem for Rails 3.1+,4"
   spec.summary       = "Fittext is awesome"
+  spec.homepage      = "https://github.com/guyisra/fittextjs_rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
