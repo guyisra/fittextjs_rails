@@ -2,6 +2,9 @@
 
 fittextjs_rails wraps the [fittext.js](http://fittextjs.com) library in a rails engine for simple use with the asset pipeline provided by rails 3.1 and up. The gem includes the development (non-minified) source for ease of exploration. the asset pipleline will do the heavy liftin' and minify it for you in production.
 
+see comparison between BigText.js (also as rails gem - https://github.com/guyisra/bigtextjs_rails) and FitText.js
+http://www.zachleat.com/web/fittext-and-bigtext/
+
 ## Installation
 
 Add this line to your application's Gemfile:
